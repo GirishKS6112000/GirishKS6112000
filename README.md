@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @GirishKS6112000
+- 👋 Hi, I’m Girish Chandra Sahoo
+- 🎓 Graduated in Masters of Computer Application
 - 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently leveling up mine Skills ...
   
 
 <!---
